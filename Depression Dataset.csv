@@ -1,0 +1,605 @@
+AGERNG,GENDER,EDU,PROF,MARSTS,RESDPL,LIVWTH,ENVSAT,POSSAT,FINSTR,DEBT,PHYEX,SMOKE,DRINK,ILLNESS,PREMED,EATDIS,AVGSLP,INSOM,TSSN,WRKPRE,ANXI,DEPRI,ABUSED,CHEAT,THREAT,SUICIDE,INFER,CONFLICT,LOST,DEPRESSED
+26-30,Female,Post Graduate,Unemployed,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,Yes,No,No,No,More than 8 hours,No,2-4 hours a day,No Pressure,Yes,No,No,No,No,No,No,Yes,No,0
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,With Family,Yes,No,Yes,No,Never,No,No,No,No,No,6 hours,Yes,5-7 hours a day,Moderate,Yes,Yes,Yes,No,No,No,Yes,No,No,1
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Never,No,No,No,No,No,8 hours,No,8-10 hours a day,Mild,Yes,Yes,No,No,No,No,No,No,No,0
+16-20,Male,HSC,Student,Unmarried,City,With Family,No,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Severe,Yes,Yes,No,Yes,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,No,Yes,Yes,No,Never,No,No,No,Yes,No,7 hours,Yes,5-7 hours a day,Mild,Yes,Yes,No,No,No,No,Yes,Yes,No,1
+26-30,Male,Post Graduate,Service holder (Government),Married,City,With Family,No,Yes,Yes,Yes,Never,Yes,Yes,No,No,Yes,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,Yes,No,1
+21-25,Female,Post Graduate,Unemployed,Unmarried,Town,With Family,Yes,Yes,No,No,Never,No,No,Yes,Yes,No,8 hours,No,5-7 hours a day,Moderate,Yes,Yes,Yes,Yes,No,No,No,No,No,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,Town,Without Family,Yes,Yes,No,No,Never,No,No,No,No,No,6 hours,Yes,2-4 hours a day,Moderate,No,No,No,Yes,No,No,No,No,No,0
+26-30,Female,Post Graduate,Other,Married,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Mild,No,No,Yes,No,No,No,Yes,No,No,0
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,No,Never,No,No,No,No,No,6 hours,No,5-7 hours a day,Severe,No,No,Yes,No,No,No,Yes,No,No,1
+21-25,Female,Post Graduate,Other,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,6 hours,No,More than 10 hours a day,Moderate,Yes,No,No,No,No,No,Yes,Yes,No,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,No,No,Yes,No,Yes,5 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,No,No,Yes,No,No,No,No,1
+26-30,Female,Post Graduate,Service holder (Private),Married,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Severe,Yes,Yes,No,No,No,No,No,No,No,0
+16-20,Male,HSC,Student,Unmarried,City,Without Family,Yes,No,Yes,No,Sometimes,Yes,No,No,No,No,6 hours,No,2-4 hours a day,Severe,Yes,Yes,No,Yes,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,8-10 hours a day,No Pressure,Yes,Yes,No,No,Yes,No,No,Yes,No,1
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,Without Family,Yes,No,No,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,Yes,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Never,No,No,No,No,Yes,5 hours,No,5-7 hours a day,Moderate,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+21-25,Male,Post Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,Yes,Never,Yes,No,No,No,No,7 hours,No,8-10 hours a day,No Pressure,Yes,No,No,No,No,No,Yes,Yes,No,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,Town,Without Family,Yes,No,Yes,Yes,Never,Yes,Yes,No,No,No,6 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,No,0
+16-20,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,More than 8 hours,No,More than 10 hours a day,Mild,No,No,No,No,No,No,No,No,No,0
+21-25,Female,HSC,Student,Unmarried,City,With Family,No,No,No,No,Never,No,No,No,Yes,Yes,5 hours,No,2-4 hours a day,No Pressure,Yes,Yes,No,No,No,Yes,Yes,Yes,No,1
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,Without Family,No,No,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Severe,Yes,No,No,No,No,No,No,No,No,0
+26-30,Male,Post Graduate,Unemployed,Unmarried,City,Without Family,No,No,Yes,Yes,Sometimes,Yes,No,No,No,No,6 hours,Yes,More than 10 hours a day,Mild,Yes,Yes,Yes,No,Yes,No,No,No,No,1
+26-30,Male,Post Graduate,Service holder (Government),Married,City,With Family,Yes,Yes,No,No,Sometimes,No,No,Yes,Yes,No,6 hours,No,Less than 2 hours,Moderate,Yes,No,No,No,No,No,No,No,No,0
+26-30,Male,Graduate,Student,Married,Village,With Family,No,Yes,Yes,Yes,Never,No,Yes,No,No,No,8 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,Yes,1
+26-30,Female,Post Graduate,Service holder (Private),Married,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,Yes,8 hours,No,Less than 2 hours,Mild,Yes,No,No,No,No,No,No,No,Yes,1
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,7 hours,No,Less than 2 hours,Moderate,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,City,Without Family,Yes,No,Yes,No,Regularly,No,No,No,No,No,8 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,1
+26-30,Female,Post Graduate,Service holder (Private),Married,City,With Family,No,No,No,No,Sometimes,No,No,No,No,No,Below 5 hours,Yes,2-4 hours a day,Severe,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,1
+26-30,Female,Post Graduate,Service holder (Private),Unmarried,Town,With Family,Yes,Yes,No,No,Regularly,No,No,Yes,Yes,Yes,5 hours,Yes,More than 10 hours a day,Severe,Yes,Yes,No,No,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,No,No,Yes,No,No,Yes,No,No,1
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,No,No,No,Never,Yes,Yes,No,No,No,More than 8 hours,Yes,5-7 hours a day,Moderate,No,No,No,No,No,No,No,No,Yes,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,Yes,Yes,No,8 hours,Yes,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,City,Without Family,Yes,No,Yes,No,Never,No,No,No,No,Yes,7 hours,Yes,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Town,Without Family,No,No,Yes,Yes,Sometimes,No,Yes,No,No,Yes,6 hours,No,2-4 hours a day,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,1
+21-25,Female,Graduate,Student,Unmarried,Village,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,Yes,No,No,No,Yes,1
+26-30,Female,Post Graduate,Student,Married,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,Yes,Yes,No,7 hours,Yes,More than 10 hours a day,Severe,Yes,No,No,No,No,No,No,No,No,1
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,Yes,8 hours,Yes,Less than 2 hours,Moderate,Yes,No,No,No,Yes,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,5 hours,Yes,Less than 2 hours,Moderate,No,No,No,No,No,No,No,No,No,1
+26-30,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,Yes,No,No,No,No,8 hours,No,5-7 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,Below 5 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,5-7 hours a day,Mild,No,No,No,No,Yes,No,No,Yes,No,1
+21-25,Female,HSC,Student,Unmarried,City,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,Below 5 hours,Yes,2-4 hours a day,Moderate,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,No,Sometimes,No,No,No,Yes,No,8 hours,No,2-4 hours a day,Severe,Yes,Yes,No,No,No,No,No,Yes,Yes,1
+21-25,Male,HSC,Student,Unmarried,Town,Without Family,No,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,City,Without Family,No,No,Yes,Yes,Sometimes,Yes,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,No,Yes,No,Yes,No,No,No,No,No,1
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Regularly,Yes,Yes,No,No,Yes,8 hours,No,2-4 hours a day,Severe,Yes,Yes,No,Yes,No,No,No,Yes,No,1
+21-25,Male,Post Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,Yes,Yes,6 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,Below 5 hours,No,2-4 hours a day,Severe,Yes,Yes,Yes,No,Yes,No,No,No,Yes,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,More than 8 hours,No,2-4 hours a day,Severe,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Post Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,8 hours,Yes,2-4 hours a day,No Pressure,Yes,No,No,No,No,No,Yes,No,No,1
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,Less than 2 hours,Mild,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,Below 5 hours,No,8-10 hours a day,Severe,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,Yes,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Village,Without Family,No,No,Yes,Yes,Sometimes,No,No,No,No,Yes,7 hours,No,5-7 hours a day,Severe,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,1
+21-25,Female,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Post Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Regularly,No,No,No,Yes,No,5 hours,Yes,5-7 hours a day,Severe,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,1
+21-25,Female,Graduate,Student,Married,Village,With Family,No,Yes,Yes,Yes,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Severe,Yes,No,No,No,No,No,Yes,No,No,1
+26-30,Male,Post Graduate,Unemployed,Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,Yes,No,No,No,No,8 hours,Yes,2-4 hours a day,No Pressure,Yes,Yes,Yes,No,No,No,Yes,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,Yes,No,Never,No,No,No,No,No,Below 5 hours,Yes,2-4 hours a day,Severe,Yes,Yes,No,No,No,Yes,No,Yes,No,1
+21-25,Female,HSC,Student,Married,City,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,Below 5 hours,No,5-7 hours a day,Mild,Yes,No,No,No,No,No,No,No,No,1
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,More than 8 hours,No,Less than 2 hours,Mild,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,Yes,More than 10 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1
+21-25,Female,HSC,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,No Pressure,Yes,Yes,No,No,No,No,No,No,No,1
+21-25,Male,HSC,Student,Unmarried,City,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,More than 8 hours,Yes,Less than 2 hours,No Pressure,No,No,No,No,No,No,No,No,No,1
+21-25,Male,Post Graduate,Student,Unmarried,City,Without Family,No,No,No,Yes,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,Yes,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,Yes,5 hours,Yes,5-7 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,Yes,Yes,0
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Never,No,No,No,No,No,7 hours,No,5-7 hours a day,Mild,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Never,No,No,No,No,No,7 hours,No,5-7 hours a day,Mild,No,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,Yes,No,No,6 hours,No,Less than 2 hours,Moderate,No,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Never,No,No,No,No,No,8 hours,No,Less than 2 hours,Moderate,Yes,Yes,No,No,No,No,No,Yes,Yes,1
+21-25,Male,HSC,Student,Unmarried,Village,With Family,No,No,Yes,No,Sometimes,Yes,Yes,No,No,No,6 hours,No,2-4 hours a day,Severe,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,1
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,No,No,Yes,Yes,No,7 hours,No,Less than 2 hours,Moderate,No,Yes,No,No,No,No,No,No,No,0
+16-20,Female,HSC,Student,Married,City,With Family,Yes,Yes,No,No,Regularly,No,No,No,No,No,8 hours,No,Less than 2 hours,Moderate,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,No,No,Yes,No,Never,Yes,No,No,No,No,8 hours,No,5-7 hours a day,Severe,Yes,No,No,No,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Mild,No,Yes,No,No,No,No,No,No,No,1
+16-20,Female,HSC,Student,Unmarried,Town,With Family,Yes,Yes,No,Yes,Never,No,No,No,No,No,7 hours,No,2-4 hours a day,Severe,Yes,Yes,No,No,No,No,No,Yes,No,1
+16-20,Male,Graduate,Student,Married,City,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,2-4 hours a day,Mild,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Town,Without Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,5-7 hours a day,Mild,No,No,No,No,No,No,No,No,Yes,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1
+21-25,Female,Post Graduate,Unemployed,Married,City,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,Less than 2 hours,Severe,Yes,No,No,No,No,No,No,No,Yes,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,Yes,No,6 hours,No,8-10 hours a day,Mild,No,No,No,No,No,No,No,Yes,No,0
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,Yes,Less than 2 hours,Moderate,Yes,No,No,No,No,No,No,No,Yes,1
+21-25,Female,Post Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,Yes,6 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,No,No,No,Yes,No,7 hours,Yes,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,1
+26-30,Female,Post Graduate,Unemployed,Married,Village,With Family,No,No,Yes,No,Never,No,No,No,No,No,5 hours,No,Less than 2 hours,Moderate,Yes,Yes,Yes,No,No,No,Yes,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0
+26-30,Female,Post Graduate,Service holder (Government),Married,City,Without Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Mild,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,Yes,0
+16-20,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,No,0
+21-25,Female,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Never,No,No,No,No,No,8 hours,No,5-7 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,5-7 hours a day,Mild,No,No,No,No,No,No,No,Yes,No,1
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,No,0
+16-20,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,Less than 2 hours,Mild,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+16-20,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,Yes,6 hours,No,Less than 2 hours,No Pressure,Yes,No,No,No,Yes,No,No,Yes,No,1
+21-25,Male,Post Graduate,Student,Unmarried,Village,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,Yes,No,No,No,No,1
+21-25,Male,Post Graduate,Student,Unmarried,Town,Without Family,No,No,No,No,Sometimes,No,No,No,No,No,6 hours,No,Less than 2 hours,Severe,No,No,No,No,No,No,No,No,No,0
+16-20,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,8-10 hours a day,Mild,Yes,No,No,No,No,No,No,Yes,No,1
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,5-7 hours a day,No Pressure,Yes,No,No,No,No,No,No,No,No,0
+21-25,Female,HSC,Student,Unmarried,Town,With Family,Yes,No,Yes,Yes,Regularly,No,No,No,No,No,7 hours,No,Less than 2 hours,Moderate,Yes,Yes,No,No,Yes,No,Yes,No,No,1
+16-20,Female,HSC,Student,Unmarried,Village,With Family,Yes,No,No,No,Never,No,No,No,No,No,7 hours,No,Less than 2 hours,No Pressure,No,No,Yes,No,No,No,No,No,No,0
+16-20,Male,HSC,Student,Unmarried,City,With Family,No,Yes,No,No,Sometimes,No,No,No,No,Yes,8 hours,Yes,5-7 hours a day,Mild,Yes,No,No,No,No,No,No,No,No,1
+31-35,Male,Post Graduate,Service holder (Government),Married,City,Without Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,Less than 2 hours,Moderate,Yes,Yes,Yes,No,No,No,No,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Mild,Yes,No,No,No,No,No,Yes,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,6 hours,Yes,5-7 hours a day,Moderate,No,No,No,No,No,No,No,No,Yes,1
+21-25,Female,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Never,No,No,No,Yes,No,7 hours,No,More than 10 hours a day,Mild,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Post Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,Yes,Never,No,No,No,No,No,5 hours,No,Less than 2 hours,No Pressure,No,Yes,No,No,No,No,Yes,No,No,0
+16-20,Male,SSC,Student,Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,Yes,No,No,No,Yes,5 hours,No,2-4 hours a day,No Pressure,No,Yes,No,No,No,No,Yes,Yes,Yes,1
+26-30,Female,Post Graduate,Unemployed,Unmarried,Town,Without Family,No,Yes,Yes,No,Sometimes,No,No,Yes,Yes,No,7 hours,No,5-7 hours a day,Mild,No,No,No,No,No,No,No,No,No,0
+21-25,Female,HSC,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,Yes,No,7 hours,No,2-4 hours a day,Severe,Yes,Yes,No,No,Yes,No,No,No,Yes,1
+16-20,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Regularly,No,No,No,No,No,More than 8 hours,No,8-10 hours a day,No Pressure,Yes,No,No,Yes,No,No,No,No,Yes,0
+26-30,Male,Graduate,Businessman,Unmarried,City,With Family,Yes,Yes,No,Yes,Sometimes,Yes,No,No,No,No,7 hours,No,8-10 hours a day,Severe,No,Yes,No,No,No,No,No,No,Yes,1
+16-20,Female,HSC,Student,Unmarried,City,With Family,Yes,No,No,No,Never,No,No,No,No,No,More than 8 hours,No,5-7 hours a day,No Pressure,Yes,No,No,No,No,No,No,No,No,1
+21-25,Female,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,6 hours,Yes,5-7 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0
+21-25,Female,Post Graduate,Student,Unmarried,City,With Family,No,Yes,Yes,No,Sometimes,No,No,No,Yes,No,7 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,No,No,Yes,Yes,No,No,1
+16-20,Male,HSC,Student,Unmarried,Village,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,7 hours,No,Less than 2 hours,No Pressure,No,No,No,No,No,No,No,No,No,0
+26-30,Male,Graduate,Service holder (Private),Married,City,With Family,No,Yes,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,Less than 2 hours,Severe,Yes,No,No,No,No,No,No,No,No,1
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,No,No,No,Never,No,No,No,No,No,8 hours,No,2-4 hours a day,Mild,Yes,No,No,No,No,No,No,No,No,1
+16-20,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,Yes,Yes,No,No,No,7 hours,No,5-7 hours a day,No Pressure,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,Yes,Never,No,No,No,No,No,7 hours,No,5-7 hours a day,Severe,Yes,No,No,No,No,No,No,No,No,0
+26-30,Female,Post Graduate,Service holder (Private),Unmarried,Town,Without Family,Yes,Yes,No,No,Sometimes,No,No,Yes,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,Yes,No,No,No,No,1
+26-30,Female,Post Graduate,Unemployed,Unmarried,City,With Family,Yes,Yes,No,No,Never,No,No,No,No,No,8 hours,No,5-7 hours a day,Mild,Yes,No,No,No,No,No,No,No,No,0
+26-30,Female,Post Graduate,Service holder (Private),Married,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,No,No,No,No,Yes,No,No,No,Yes,1
+26-30,Male,Post Graduate,Service holder (Private),Married,City,Without Family,No,Yes,Yes,No,Sometimes,Yes,No,No,No,No,6 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Post Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Regularly,No,No,No,No,No,5 hours,No,5-7 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0
+26-30,Male,Graduate,Businessman,Married,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0
+26-30,Female,Post Graduate,Unemployed,Unmarried,Town,Without Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,5-7 hours a day,Moderate,Yes,No,No,No,No,No,No,No,Yes,1
+16-20,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,No,No,No,Yes,Yes,8 hours,No,5-7 hours a day,No Pressure,Yes,No,No,No,No,No,No,No,No,0
+16-20,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,8-10 hours a day,Mild,Yes,No,No,No,No,No,No,Yes,No,1
+16-20,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,Yes,Yes,No,No,No,Below 5 hours,No,Less than 2 hours,No Pressure,No,No,No,No,Yes,Yes,Yes,No,No,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Sometimes,Yes,Yes,No,No,No,6 hours,Yes,Less than 2 hours,Severe,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1
+26-30,Female,Graduate,Student,Unmarried,City,Without Family,Yes,No,Yes,No,Never,No,No,No,Yes,Yes,5 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,No,Yes,Sometimes,No,No,No,No,No,7 hours,No,8-10 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+21-25,Female,Graduate,Student,Unmarried,Village,With Family,Yes,No,No,Yes,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Severe,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Post Graduate,Unemployed,Unmarried,City,With Family,Yes,No,No,No,Regularly,Yes,Yes,No,No,No,7 hours,Yes,More than 10 hours a day,No Pressure,No,No,No,Yes,No,No,No,Yes,Yes,1
+21-25,Male,Graduate,Student,Unmarried,Village,Without Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,Yes,Below 5 hours,Yes,Less than 2 hours,No Pressure,No,No,No,No,No,Yes,No,No,No,0
+26-30,Male,Post Graduate,Other,Unmarried,City,Without Family,Yes,Yes,No,No,Sometimes,No,No,No,Yes,No,7 hours,No,2-4 hours a day,Mild,No,No,No,No,Yes,No,No,No,No,1
+21-25,Female,Post Graduate,Unemployed,Unmarried,Town,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,8 hours,No,5-7 hours a day,No Pressure,No,Yes,No,No,No,No,Yes,No,No,0
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,Yes,No,Sometimes,No,No,No,Yes,No,6 hours,No,More than 10 hours a day,Moderate,Yes,Yes,No,No,Yes,No,No,Yes,No,1
+26-30,Female,Post Graduate,Unemployed,Married,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,More than 8 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1
+26-30,Male,Post Graduate,Unemployed,Unmarried,City,With Family,No,No,Yes,Yes,Never,Yes,No,No,No,No,6 hours,No,2-4 hours a day,Mild,Yes,Yes,No,No,No,No,No,No,No,1
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,No,Yes,Yes,Never,No,No,No,No,No,6 hours,No,2-4 hours a day,Severe,No,No,No,Yes,No,No,No,No,No,1
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,6 hours,Yes,Less than 2 hours,Mild,Yes,No,No,No,No,No,Yes,No,No,1
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,Yes,No,No,No,No,5 hours,No,5-7 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0
+26-30,Male,Post Graduate,Service holder (Private),Married,Village,With Family,Yes,Yes,Yes,No,Sometimes,Yes,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1
+26-30,Male,Graduate,Service holder (Private),Married,City,With Family,Yes,No,Yes,Yes,Never,Yes,No,No,No,No,6 hours,No,Less than 2 hours,Moderate,Yes,Yes,No,No,No,No,No,No,No,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,Without Family,No,No,Yes,No,Sometimes,Yes,Yes,No,Yes,No,8 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,With Family,No,Yes,No,No,Sometimes,No,No,Yes,No,No,7 hours,No,8-10 hours a day,Moderate,Yes,Yes,Yes,Yes,No,No,No,Yes,No,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,Town,Without Family,Yes,No,Yes,No,Never,No,No,Yes,No,No,6 hours,No,Less than 2 hours,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1
+26-30,Female,Post Graduate,Unemployed,Married,City,With Family,No,No,No,No,Never,No,No,No,No,No,8 hours,No,5-7 hours a day,No Pressure,No,Yes,No,No,No,Yes,Yes,Yes,No,1
+21-25,Female,Post Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,Yes,5 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1
+26-30,Female,Graduate,Service holder (Private),Married,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,8 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,Yes,Regularly,No,No,No,No,No,8 hours,No,2-4 hours a day,No Pressure,Yes,No,Yes,No,No,No,Yes,No,No,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,No,No,No,No,Never,Yes,Yes,No,No,No,More than 8 hours,No,5-7 hours a day,Severe,No,No,No,No,No,No,Yes,No,No,1
+26-30,Male,Graduate,Service holder (Private),Married,Town,With Family,No,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,No,No,No,Never,No,No,No,No,No,8 hours,No,8-10 hours a day,Moderate,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,1
+21-25,Female,Graduate,Student,Married,City,With Family,Yes,No,Yes,No,Never,No,No,No,No,No,8 hours,No,5-7 hours a day,No Pressure,Yes,Yes,Yes,Yes,Yes,No,No,No,No,1
+16-20,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,6 hours,No,Less than 2 hours,Moderate,No,No,No,No,No,No,No,Yes,No,0
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,No,No,Sometimes,No,No,Yes,No,Yes,8 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,1
+16-20,Male,Graduate,Student,Unmarried,City,Without Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,More than 8 hours,No,More than 10 hours a day,No Pressure,No,Yes,No,Yes,No,No,No,No,Yes,1
+26-30,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Never,Yes,Yes,No,No,No,Below 5 hours,Yes,2-4 hours a day,Moderate,Yes,No,No,Yes,No,No,Yes,No,Yes,1
+21-25,Male,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,Yes,Yes,No,No,No,7 hours,No,5-7 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+26-30,Male,Graduate,Businessman,Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,Yes,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,Without Family,No,No,Yes,Yes,Never,No,No,Yes,No,No,Below 5 hours,Yes,5-7 hours a day,Moderate,Yes,Yes,No,Yes,No,No,Yes,No,No,1
+26-30,Male,Post Graduate,Service holder (Private),Married,City,With Family,Yes,No,Yes,Yes,Never,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+26-30,Male,Graduate,Student,Unmarried,Town,Without Family,Yes,Yes,No,No,Sometimes,Yes,No,No,No,Yes,6 hours,No,More than 10 hours a day,Moderate,Yes,No,Yes,No,No,No,No,No,No,1
+26-30,Female,Graduate,Student,Divorced,Town,With Family,No,Yes,Yes,Yes,Sometimes,Yes,No,Yes,No,Yes,7 hours,No,More than 10 hours a day,Moderate,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+26-30,Male,HSC,Service holder (Private),Unmarried,City,Without Family,Yes,Yes,Yes,Yes,Regularly,Yes,Yes,No,Yes,Yes,More than 8 hours,Yes,8-10 hours a day,Moderate,Yes,Yes,No,Yes,No,No,No,Yes,No,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,Town,With Family,Yes,No,Yes,Yes,Never,No,No,No,No,No,7 hours,No,8-10 hours a day,Moderate,Yes,No,No,No,No,No,Yes,No,No,1
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,Yes,Yes,No,No,No,6 hours,No,5-7 hours a day,Moderate,No,Yes,No,Yes,No,No,No,No,Yes,1
+26-30,Male,Graduate,Other,Unmarried,City,With Family,Yes,No,No,No,Never,Yes,Yes,No,No,No,8 hours,Yes,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,Yes,1
+26-30,Male,Graduate,Businessman,Unmarried,Town,With Family,No,Yes,Yes,No,Sometimes,Yes,Yes,No,No,No,8 hours,No,5-7 hours a day,Mild,Yes,No,No,No,No,No,No,No,No,1
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Never,Yes,No,No,No,No,7 hours,No,Less than 2 hours,Severe,Yes,No,No,No,No,No,No,No,No,1
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,6 hours,Yes,2-4 hours a day,Mild,Yes,No,No,No,Yes,No,No,Yes,No,1
+21-25,Male,HSC,Student,Unmarried,City,With Family,No,No,Yes,No,Sometimes,Yes,No,Yes,No,No,5 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,No,Yes,No,No,No,No,Yes,1
+16-20,Female,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,Yes,No,0
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,No,No,Sometimes,No,No,No,No,Yes,8 hours,No,2-4 hours a day,Severe,Yes,No,No,No,No,No,No,No,No,0
+26-30,Male,Graduate,Businessman,Unmarried,City,With Family,No,Yes,Yes,Yes,Sometimes,No,No,No,No,No,More than 8 hours,Yes,Less than 2 hours,Moderate,No,No,No,No,No,No,Yes,Yes,No,1
+26-30,Male,Post Graduate,Service holder (Private),Married,City,Without Family,Yes,No,No,Yes,Sometimes,No,No,No,No,No,More than 8 hours,No,Less than 2 hours,No Pressure,No,Yes,No,No,No,No,Yes,Yes,No,1
+21-25,Female,Graduate,Student,Unmarried,City,With Family,No,Yes,Yes,No,Sometimes,No,No,No,Yes,Yes,Below 5 hours,Yes,8-10 hours a day,Severe,Yes,Yes,Yes,No,No,No,Yes,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Never,Yes,No,No,No,No,7 hours,Yes,5-7 hours a day,Moderate,Yes,Yes,No,Yes,No,No,No,No,No,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,Yes,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,No,No,No,Yes,No,No,No,No,No,1
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Never,No,No,No,No,No,6 hours,No,8-10 hours a day,Mild,Yes,Yes,No,No,No,No,No,No,No,0
+21-25,Male,Post Graduate,Service holder (Private),Unmarried,Town,Without Family,Yes,No,Yes,No,Sometimes,Yes,Yes,No,No,No,7 hours,No,2-4 hours a day,Moderate,No,Yes,Yes,No,No,No,No,No,No,1
+21-25,Male,Graduate,Service holder (Private),Unmarried,Town,With Family,No,No,Yes,No,Sometimes,Yes,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,Yes,No,Yes,No,No,1
+26-30,Male,Graduate,Unemployed,Unmarried,City,Without Family,Yes,No,No,No,Never,Yes,No,No,No,No,6 hours,No,8-10 hours a day,Mild,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Sometimes,Yes,Yes,No,No,No,Below 5 hours,Yes,8-10 hours a day,No Pressure,No,No,No,Yes,No,Yes,Yes,No,Yes,1
+26-30,Male,Graduate,Other,Unmarried,City,With Family,Yes,Yes,No,Yes,Never,Yes,No,No,No,No,5 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+26-30,Male,Post Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,Yes,Yes,No,8 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,Yes,1
+46-50,Male,Graduate,Businessman,Married,City,With Family,Yes,Yes,Yes,Yes,Regularly,Yes,No,No,No,No,6 hours,No,2-4 hours a day,No Pressure,No,Yes,No,No,No,No,Yes,Yes,Yes,1
+21-25,Male,Graduate,Service holder (Private),Unmarried,City,Without Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,No,No,Yes,0
+26-30,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,Yes,No,Sometimes,Yes,No,No,No,No,More than 8 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,Yes,No,No,Yes,Yes,No,1
+26-30,Male,Graduate,Other,Married,City,With Family,No,No,Yes,Yes,Never,Yes,No,No,No,Yes,8 hours,Yes,8-10 hours a day,Mild,Yes,Yes,No,No,No,No,Yes,Yes,No,1
+21-25,Female,Graduate,Other,Unmarried,City,With Family,No,No,Yes,No,Sometimes,No,No,Yes,No,No,8 hours,No,5-7 hours a day,Moderate,Yes,No,No,No,No,No,No,Yes,Yes,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,Yes,Yes,1
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,No,1
+26-30,Male,Post Graduate,Unemployed,Unmarried,City,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,Less than 2 hours,Moderate,No,No,No,No,No,No,No,No,No,1
+26-30,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,Yes,No,No,7 hours,Yes,2-4 hours a day,No Pressure,No,No,No,No,Yes,No,Yes,No,No,1
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,Without Family,Yes,Yes,No,No,Sometimes,Yes,No,No,No,No,6 hours,No,2-4 hours a day,No Pressure,No,Yes,No,No,No,No,No,No,No,1
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,Below 5 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,Yes,Below 5 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,No,No,No,Yes,Yes,No,1
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Never,No,No,No,No,Yes,Below 5 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0
+26-30,Male,Graduate,Student,Unmarried,Town,Without Family,Yes,Yes,Yes,No,Regularly,Yes,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,No,Yes,No,No,No,No,No,No,No,0
+26-30,Male,Graduate,Student,Unmarried,City,With Family,No,No,No,No,Never,Yes,No,No,No,No,5 hours,Yes,5-7 hours a day,No Pressure,No,Yes,No,No,No,No,No,Yes,No,1
+16-20,Male,SSC,Student,Unmarried,City,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,5-7 hours a day,No Pressure,No,No,No,No,No,No,No,No,Yes,1
+26-30,Male,Post Graduate,Service holder (Government),Unmarried,City,Without Family,No,Yes,No,No,Never,Yes,No,No,No,No,6 hours,No,5-7 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+26-30,Male,Graduate,Businessman,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Mild,Yes,No,No,Yes,No,No,No,No,No,1
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,Without Family,No,No,No,Yes,Never,Yes,Yes,No,No,No,6 hours,Yes,5-7 hours a day,Mild,Yes,Yes,No,No,No,No,Yes,Yes,No,1
+26-30,Female,Post Graduate,Student,Unmarried,City,With Family,No,No,Yes,No,Never,No,No,No,No,Yes,8 hours,Yes,5-7 hours a day,Moderate,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,Village,Without Family,Yes,Yes,Yes,Yes,Regularly,No,No,No,No,No,More than 8 hours,No,5-7 hours a day,No Pressure,Yes,No,Yes,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,Town,With Family,No,No,Yes,Yes,Sometimes,Yes,Yes,No,Yes,No,7 hours,Yes,2-4 hours a day,No Pressure,Yes,Yes,Yes,No,Yes,No,No,No,Yes,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,Yes,Yes,No,Yes,No,6 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,Yes,No,No,No,No,Yes,Yes,1
+21-25,Female,Graduate,Student,Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,Yes,Below 5 hours,Yes,8-10 hours a day,Moderate,Yes,No,Yes,No,No,No,No,Yes,Yes,1
+26-30,Female,Graduate,Unemployed,Married,City,With Family,No,No,Yes,Yes,Never,No,No,Yes,Yes,Yes,5 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,Yes,No,No,No,No,Yes,No,1
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,With Family,No,Yes,Yes,Yes,Sometimes,Yes,Yes,No,Yes,No,7 hours,Yes,Less than 2 hours,Moderate,Yes,No,No,No,No,No,No,No,No,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,Without Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,5 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,Yes,No,0
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,No,No,No,Regularly,No,No,No,No,No,8 hours,No,Less than 2 hours,Moderate,Yes,No,No,No,No,No,Yes,No,No,1
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,Without Family,Yes,No,No,No,Sometimes,Yes,No,No,No,No,6 hours,No,2-4 hours a day,Severe,Yes,Yes,No,No,No,No,No,No,No,1
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,Without Family,No,No,No,No,Sometimes,No,No,Yes,Yes,No,7 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,Yes,No,No,No,No,6 hours,No,Less than 2 hours,Mild,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,City,Without Family,Yes,No,No,No,Sometimes,Yes,Yes,Yes,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,Yes,No,Yes,Yes,No,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,Yes,Yes,Never,No,No,Yes,Yes,No,6 hours,No,2-4 hours a day,Severe,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,Yes,Yes,No,No,No,7 hours,No,2-4 hours a day,No Pressure,Yes,No,No,No,No,No,No,No,Yes,0
+26-30,Female,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,Yes,5 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,1
+31-35,Male,Post Graduate,Other,Married,City,With Family,Yes,Yes,No,No,Sometimes,Yes,No,Yes,Yes,No,6 hours,No,Less than 2 hours,Moderate,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,Post Graduate,Student,Unmarried,City,Without Family,Yes,Yes,No,No,Sometimes,No,No,No,No,Yes,7 hours,No,2-4 hours a day,Moderate,Yes,No,Yes,No,No,No,No,No,Yes,1
+16-20,Male,HSC,Student,Unmarried,City,With Family,No,No,Yes,No,Sometimes,Yes,No,No,No,No,More than 8 hours,No,8-10 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,1
+26-30,Male,Graduate,Unemployed,Unmarried,Village,With Family,Yes,No,Yes,No,Never,Yes,Yes,No,No,No,6 hours,No,2-4 hours a day,Mild,No,Yes,No,Yes,No,No,No,No,No,1
+26-30,Male,Graduate,Service holder (Government),Unmarried,City,Without Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,5-7 hours a day,Mild,No,No,No,No,No,No,No,No,No,0
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,Yes,Sometimes,Yes,Yes,No,No,No,8 hours,No,8-10 hours a day,Mild,No,No,No,No,No,No,No,Yes,No,0
+26-30,Male,Graduate,Student,Married,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,Less than 2 hours,No Pressure,Yes,No,No,No,No,No,No,No,No,1
+21-25,Male,Post Graduate,Service holder (Private),Married,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,No,Yes,No,No,No,No,No,No,No,0
+26-30,Male,Graduate,Unemployed,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Mild,Yes,No,No,No,No,No,Yes,Yes,No,1
+26-30,Female,Post Graduate,Unemployed,Unmarried,Town,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,6 hours,Yes,5-7 hours a day,Severe,Yes,Yes,No,No,No,Yes,Yes,No,No,1
+26-30,Female,Graduate,Unemployed,Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,5 hours,No,2-4 hours a day,Severe,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,1
+26-30,Male,Graduate,Businessman,Unmarried,City,With Family,No,Yes,Yes,Yes,Sometimes,Yes,No,Yes,No,No,7 hours,No,2-4 hours a day,Mild,Yes,No,Yes,No,No,No,No,Yes,Yes,1
+26-30,Female,Post Graduate,Unemployed,Married,City,With Family,Yes,Yes,No,No,Never,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,No,Yes,Yes,1
+21-25,Female,Graduate,Student,Married,City,Without Family,Yes,No,Yes,No,Sometimes,No,No,No,Yes,No,More than 8 hours,No,More than 10 hours a day,No Pressure,No,No,No,No,Yes,No,No,No,No,0
+26-30,Female,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,8-10 hours a day,Mild,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,1
+21-25,Male,Graduate,Student,Married,City,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,More than 8 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,Yes,No,No,Yes,No,1
+26-30,Female,Graduate,Unemployed,Unmarried,City,With Family,No,No,No,No,Never,No,No,Yes,Yes,No,7 hours,No,8-10 hours a day,No Pressure,Yes,No,No,No,No,No,Yes,No,No,1
+21-25,Female,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,Yes,No,Below 5 hours,Yes,5-7 hours a day,Severe,Yes,Yes,No,No,No,No,No,Yes,Yes,1
+21-25,Female,HSC,Student,Unmarried,City,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,Below 5 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,Yes,No,Yes,No,1
+26-30,Female,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,No,Yes,No,Sometimes,Yes,Yes,No,Yes,No,7 hours,Yes,More than 10 hours a day,Moderate,Yes,Yes,No,Yes,No,No,No,Yes,Yes,1
+21-25,Male,Graduate,Student,Unmarried,Town,Without Family,Yes,Yes,No,Yes,Sometimes,No,No,No,No,No,8 hours,No,5-7 hours a day,Moderate,No,No,No,Yes,No,No,No,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,No,No,Sometimes,No,No,No,No,No,7 hours,No,5-7 hours a day,Mild,No,No,No,No,Yes,Yes,No,No,No,1
+26-30,Female,Post Graduate,Unemployed,Unmarried,Town,With Family,No,No,Yes,No,Never,No,No,No,No,Yes,8 hours,Yes,2-4 hours a day,Mild,Yes,No,No,Yes,No,No,Yes,No,No,1
+41-45,Male,Post Graduate,Service holder (Private),Married,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,Yes,No,6 hours,No,2-4 hours a day,No Pressure,Yes,Yes,No,No,No,No,No,No,No,0
+16-20,Male,HSC,Student,Married,City,With Family,Yes,Yes,No,No,Never,Yes,No,No,No,No,6 hours,No,More than 10 hours a day,Mild,No,Yes,No,No,Yes,No,Yes,Yes,Yes,1
+26-30,Male,Graduate,Unemployed,Unmarried,City,With Family,No,No,Yes,Yes,Never,No,No,Yes,Yes,Yes,Below 5 hours,No,8-10 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Town,Without Family,Yes,No,Yes,No,Never,No,No,No,No,No,7 hours,No,2-4 hours a day,Severe,Yes,Yes,No,No,No,No,No,No,Yes,1
+56-60,Male,Graduate,Service holder (Government),Married,Town,With Family,Yes,Yes,No,Yes,Never,Yes,No,No,No,No,6 hours,No,Less than 2 hours,Mild,Yes,No,No,No,No,No,No,No,No,0
+26-30,Male,Graduate,Service holder (Private),Married,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,Yes,No,Yes,Yes,1
+46-50,Female,HSC,Other,Married,Town,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,Yes,Yes,No,Below 5 hours,Yes,Less than 2 hours,Moderate,Yes,No,No,No,No,No,No,Yes,No,1
+21-25,Male,Graduate,Student,Married,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,8 hours,No,5-7 hours a day,Severe,No,Yes,Yes,No,No,No,No,No,No,1
+21-25,Male,Graduate,Service holder (Private),Married,City,With Family,Yes,Yes,No,No,Regularly,No,No,No,No,No,8 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,City,Without Family,No,No,Yes,No,Sometimes,No,Yes,No,Yes,No,6 hours,No,2-4 hours a day,Moderate,Yes,No,Yes,Yes,No,No,No,No,No,1
+21-25,Male,HSC,Student,Unmarried,Town,With Family,No,Yes,Yes,No,Never,Yes,No,No,No,No,More than 8 hours,No,More than 10 hours a day,No Pressure,Yes,No,No,No,No,No,No,No,No,1
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,Yes,8 hours,No,8-10 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,Town,With Family,Yes,Yes,Yes,No,Never,No,No,No,No,No,7 hours,No,5-7 hours a day,Mild,Yes,No,No,No,No,No,No,Yes,No,0
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,Yes,No,7 hours,No,2-4 hours a day,Mild,Yes,Yes,No,No,No,No,No,Yes,Yes,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,More than 8 hours,No,Less than 2 hours,No Pressure,No,No,No,No,No,No,No,No,No,0
+26-30,Male,Post Graduate,Unemployed,Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,8 hours,No,Less than 2 hours,Severe,No,Yes,No,No,No,No,No,No,No,0
+26-30,Female,Post Graduate,Unemployed,Married,City,With Family,No,No,Yes,No,Sometimes,No,No,No,No,Yes,8 hours,Yes,2-4 hours a day,Mild,Yes,Yes,Yes,No,No,No,Yes,Yes,No,1
+21-25,Male,Graduate,Service holder (Private),Unmarried,Town,With Family,No,No,No,No,Sometimes,No,No,No,No,Yes,5 hours,Yes,2-4 hours a day,Moderate,Yes,No,No,Yes,No,No,Yes,Yes,No,1
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Never,Yes,No,Yes,Yes,No,7 hours,No,2-4 hours a day,Mild,Yes,No,No,No,No,No,No,Yes,No,0
+26-30,Male,Graduate,Unemployed,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,Yes,Yes,Yes,8 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,No,0
+26-30,Female,Post Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,More than 8 hours,No,More than 10 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,With Family,Yes,No,No,Yes,Sometimes,No,No,No,No,No,6 hours,No,5-7 hours a day,Severe,Yes,Yes,No,No,No,No,Yes,No,No,1
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,Yes,8 hours,Yes,5-7 hours a day,Moderate,Yes,No,No,No,No,Yes,No,No,No,1
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,Without Family,Yes,No,Yes,No,Sometimes,Yes,Yes,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,No,No,No,Yes,Yes,No,1
+26-30,Male,Post Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,Yes,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,No,No,No,No,No,No,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,No,No,No,No,Sometimes,No,No,No,No,Yes,7 hours,No,2-4 hours a day,Severe,Yes,Yes,No,Yes,No,No,No,No,Yes,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,Yes,No,Yes,Yes,No,6 hours,No,Less than 2 hours,Moderate,No,Yes,No,No,Yes,No,No,No,No,1
+16-20,Male,HSC,Student,Unmarried,Town,With Family,No,No,Yes,No,Regularly,No,No,No,No,No,8 hours,No,2-4 hours a day,Mild,Yes,No,No,No,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,Yes,No,No,No,No,8 hours,No,8-10 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,Less than 2 hours,Moderate,Yes,No,No,No,No,No,No,Yes,Yes,1
+16-20,Male,Graduate,Student,Unmarried,Town,With Family,No,No,Yes,No,Regularly,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,Yes,No,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,Town,With Family,No,No,Yes,No,Regularly,Yes,No,No,No,No,6 hours,No,2-4 hours a day,Severe,Yes,Yes,No,Yes,No,No,No,No,Yes,1
+21-25,Male,Graduate,Unemployed,Unmarried,City,With Family,Yes,No,Yes,No,Never,No,No,No,No,Yes,5 hours,No,2-4 hours a day,Mild,Yes,Yes,No,No,No,Yes,Yes,No,No,1
+21-25,Female,HSC,Student,Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,Below 5 hours,Yes,2-4 hours a day,Mild,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,Without Family,Yes,Yes,Yes,No,Never,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0
+21-25,Female,Post Graduate,Unemployed,Unmarried,City,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,6 hours,Yes,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1
+26-30,Male,Post Graduate,Service holder (Private),Married,City,With Family,Yes,No,Yes,No,Never,Yes,No,No,No,No,7 hours,Yes,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,6 hours,No,5-7 hours a day,Moderate,No,No,No,No,Yes,No,No,No,No,0
+21-25,Male,Post Graduate,Service holder (Private),Married,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,Yes,No,No,5 hours,No,Less than 2 hours,Mild,No,Yes,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Town,Without Family,Yes,No,Yes,No,Never,No,No,No,No,No,8 hours,No,5-7 hours a day,Severe,No,No,No,Yes,No,No,No,Yes,Yes,1
+26-30,Female,Graduate,Unemployed,Married,City,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,5-7 hours a day,Mild,Yes,No,No,No,No,No,No,Yes,No,1
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,No,Yes,No,Never,No,No,No,No,No,7 hours,No,5-7 hours a day,Mild,Yes,No,No,No,No,No,No,Yes,Yes,1
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,No,Sometimes,No,No,No,Yes,Yes,Below 5 hours,Yes,Less than 2 hours,Moderate,No,Yes,Yes,No,No,Yes,No,Yes,Yes,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,No,Yes,Never,No,No,No,No,Yes,8 hours,No,8-10 hours a day,No Pressure,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,1
+26-30,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,Yes,Sometimes,Yes,No,No,No,No,7 hours,No,Less than 2 hours,Moderate,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,City,With Family,No,No,Yes,No,Regularly,No,No,No,No,No,7 hours,No,Less than 2 hours,Mild,Yes,Yes,No,Yes,No,No,No,No,No,1
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,Below 5 hours,No,5-7 hours a day,Severe,Yes,No,No,Yes,No,No,No,No,No,1
+21-25,Male,HSC,Student,Unmarried,Town,Without Family,Yes,Yes,No,No,Sometimes,No,No,No,No,Yes,8 hours,No,8-10 hours a day,Mild,No,No,No,Yes,No,No,No,No,No,0
+26-30,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,No,Never,Yes,No,No,No,No,6 hours,No,5-7 hours a day,Severe,Yes,Yes,Yes,Yes,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,5-7 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,More than 10 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,No,No,Regularly,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Never,No,No,No,No,No,More than 8 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,Yes,0
+36-40,Male,Post Graduate,Service holder (Private),Married,City,With Family,No,No,Yes,No,Never,No,No,No,No,No,5 hours,Yes,Less than 2 hours,Mild,Yes,Yes,No,Yes,No,No,No,Yes,No,1
+21-25,Female,Post Graduate,Unemployed,Unmarried,City,With Family,No,No,Yes,Yes,Never,No,No,Yes,Yes,Yes,Below 5 hours,Yes,2-4 hours a day,No Pressure,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,1
+26-30,Female,Graduate,Service holder (Government),Unmarried,Village,Without Family,No,No,Yes,No,Never,No,No,No,Yes,No,7 hours,Yes,More than 10 hours a day,Moderate,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,1
+21-25,Female,HSC,Student,Married,Town,With Family,Yes,No,No,No,Never,No,No,No,No,No,5 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,Yes,No,7 hours,No,Less than 2 hours,Moderate,Yes,No,No,No,No,No,No,Yes,No,0
+21-25,Male,Post Graduate,Student,Unmarried,Village,Without Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Severe,Yes,Yes,No,No,Yes,No,No,No,Yes,1
+26-30,Female,Post Graduate,Unemployed,Married,Town,With Family,No,No,Yes,No,Sometimes,No,No,No,No,Yes,Below 5 hours,No,2-4 hours a day,No Pressure,Yes,No,No,No,No,No,No,No,Yes,1
+16-20,Male,Post Graduate,Student,Married,Village,With Family,No,No,Yes,Yes,Sometimes,No,Yes,No,No,No,8 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,1
+26-30,Male,Graduate,Service holder (Private),Married,City,With Family,No,No,Yes,Yes,Never,No,No,No,No,Yes,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,Without Family,No,No,Yes,No,Never,Yes,No,No,No,No,7 hours,No,Less than 2 hours,Moderate,Yes,Yes,No,No,No,No,No,No,Yes,1
+16-20,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,No,Yes,No,No,No,No,No,No,Yes,0
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,No,Yes,No,No,Never,No,No,No,No,No,6 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,Yes,1
+21-25,Female,SSC,Student,Married,Town,With Family,Yes,Yes,Yes,Yes,Never,No,No,No,Yes,No,6 hours,No,8-10 hours a day,Severe,Yes,Yes,Yes,No,No,No,No,Yes,No,1
+21-25,Female,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Never,No,No,No,No,No,More than 8 hours,No,2-4 hours a day,No Pressure,No,Yes,No,No,No,No,No,Yes,Yes,1
+21-25,Male,HSC,Student,Unmarried,City,Without Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,Yes,Yes,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Never,No,No,No,No,No,Below 5 hours,No,Less than 2 hours,Moderate,No,No,No,Yes,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Regularly,No,No,No,No,No,6 hours,No,Less than 2 hours,Moderate,No,No,No,No,No,No,No,No,Yes,0
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Never,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Never,No,No,No,No,No,6 hours,No,2-4 hours a day,Severe,Yes,No,No,No,No,No,No,Yes,Yes,1
+21-25,Male,HSC,Student,Unmarried,Village,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,More than 8 hours,No,5-7 hours a day,Mild,Yes,Yes,No,No,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,No,Sometimes,No,No,No,Yes,Yes,5 hours,Yes,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,5 hours,Yes,Less than 2 hours,Moderate,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Post Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,Yes,0
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,No,Yes,Sometimes,No,No,No,No,No,8 hours,No,Less than 2 hours,Moderate,No,No,No,No,No,No,No,No,No,0
+21-25,Female,Graduate,Student,Married,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,No,Yes,No,No,No,Yes,Yes,1
+21-25,Male,Graduate,Student,Unmarried,City,Without Family,Yes,Yes,Yes,No,Regularly,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,Yes,No,No,No,No,Yes,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,No,No,Yes,Yes,Sometimes,Yes,No,No,No,No,6 hours,Yes,2-4 hours a day,Severe,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,More than 8 hours,No,2-4 hours a day,Severe,No,No,No,No,No,No,No,No,Yes,0
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,Yes,Never,No,No,No,No,Yes,7 hours,No,Less than 2 hours,Severe,Yes,Yes,Yes,No,No,No,No,Yes,No,1
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,Yes,No,No,No,No,7 hours,Yes,2-4 hours a day,Moderate,Yes,No,No,No,No,No,Yes,No,No,1
+21-25,Male,Post Graduate,Student,Married,City,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,Less than 2 hours,Mild,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Severe,No,Yes,No,No,No,No,No,No,No,1
+21-25,Male,Post Graduate,Student,Unmarried,Village,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,Less than 2 hours,Moderate,Yes,Yes,No,No,No,No,Yes,No,Yes,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,Less than 2 hours,Moderate,Yes,Yes,No,Yes,No,No,No,No,Yes,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Regularly,No,No,No,No,No,7 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,5-7 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0
+26-30,Male,Graduate,Student,Divorced,Town,With Family,Yes,No,Yes,Yes,Sometimes,Yes,No,No,No,No,5 hours,No,2-4 hours a day,Severe,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,1
+21-25,Female,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Regularly,No,No,No,Yes,Yes,7 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,No,Yes,Yes,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,Yes,Yes,1
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Never,Yes,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,No,Yes,No,No,Yes,No,No,Yes,No,0
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,Yes,No,7 hours,Yes,Less than 2 hours,Moderate,Yes,Yes,No,Yes,No,No,Yes,No,No,1
+21-25,Male,Post Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,No,No,Yes,No,No,No,No,No,1
+26-30,Male,Post Graduate,Service holder (Government),Unmarried,Town,Without Family,Yes,No,No,No,Sometimes,Yes,No,No,No,No,8 hours,No,5-7 hours a day,Moderate,No,No,Yes,No,No,No,No,No,Yes,1
+21-25,Male,HSC,Student,Married,Town,Without Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,5 hours,Yes,2-4 hours a day,Severe,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Never,No,No,No,Yes,No,Below 5 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,0
+16-20,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,No,Yes,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,Yes,1
+16-20,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,No,Yes,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,Yes,1
+16-20,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Sometimes,Yes,No,No,No,No,7 hours,No,5-7 hours a day,Moderate,Yes,No,No,No,No,Yes,Yes,No,No,1
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Regularly,No,No,No,No,No,7 hours,No,5-7 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Regularly,No,No,No,No,No,Below 5 hours,No,More than 10 hours a day,Mild,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Regularly,No,No,No,No,No,Below 5 hours,No,More than 10 hours a day,Mild,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,No,No,No,No,Sometimes,No,No,No,No,Yes,8 hours,No,2-4 hours a day,Moderate,No,Yes,No,No,Yes,No,No,No,No,1
+61+,Male,Graduate,Other,Divorced,Village,Without Family,No,Yes,Yes,Yes,Regularly,Yes,Yes,Yes,Yes,Yes,More than 8 hours,Yes,More than 10 hours a day,No Pressure,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+21-25,Female,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Never,No,No,No,No,Yes,8 hours,No,8-10 hours a day,Moderate,No,No,No,No,No,No,No,No,No,1
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Never,Yes,No,No,No,No,8 hours,No,Less than 2 hours,Severe,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,Village,With Family,No,No,Yes,No,Never,No,No,No,No,No,6 hours,No,2-4 hours a day,No Pressure,Yes,No,Yes,Yes,No,No,Yes,No,No,1
+26-30,Female,Post Graduate,Other,Married,City,With Family,No,No,Yes,Yes,Never,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,1
+21-25,Female,Graduate,Student,Unmarried,Town,With Family,No,Yes,Yes,Yes,Sometimes,No,No,Yes,Yes,Yes,6 hours,No,5-7 hours a day,Severe,Yes,Yes,Yes,No,No,No,No,No,No,1
+26-30,Male,Graduate,Unemployed,Unmarried,Village,With Family,Yes,Yes,No,No,Regularly,No,No,No,No,No,6 hours,No,Less than 2 hours,No Pressure,No,No,No,No,No,No,No,No,No,0
+26-30,Male,Post Graduate,Unemployed,Unmarried,City,Without Family,No,Yes,Yes,Yes,Sometimes,No,No,No,No,No,8 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,No,No,Never,No,No,No,No,No,8 hours,No,5-7 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0
+16-20,Female,Post Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,5-7 hours a day,Severe,No,No,No,No,No,No,No,No,No,0
+16-20,Male,HSC,Student,Unmarried,City,Without Family,Yes,No,No,No,Sometimes,Yes,No,No,No,Yes,6 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Sometimes,Yes,No,No,Yes,Yes,5 hours,No,5-7 hours a day,Severe,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,No,Regularly,No,No,No,No,No,More than 8 hours,No,Less than 2 hours,Moderate,Yes,No,No,No,Yes,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,No,No,No,Never,No,No,No,No,No,6 hours,Yes,2-4 hours a day,Mild,No,Yes,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Regularly,No,No,No,No,No,6 hours,No,Less than 2 hours,Severe,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,City,Without Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,Yes,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1
+26-30,Male,Post Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,Yes,No,No,No,No,Below 5 hours,No,Less than 2 hours,Moderate,Yes,Yes,No,No,No,No,No,No,No,1
+16-20,Female,HSC,Student,Unmarried,City,With Family,No,Yes,No,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,No Pressure,Yes,No,No,No,No,No,No,No,Yes,1
+26-30,Female,Graduate,Student,Married,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Severe,Yes,Yes,No,No,No,No,No,No,Yes,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,Village,With Family,No,No,No,No,Never,Yes,Yes,No,No,No,8 hours,No,Less than 2 hours,No Pressure,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,Yes,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Mild,Yes,Yes,Yes,Yes,No,No,No,No,Yes,1
+16-20,Female,Post Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,Yes,No,Yes,5 hours,Yes,2-4 hours a day,Severe,Yes,No,No,No,No,No,No,No,Yes,1
+16-20,Female,Post Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,Yes,No,Yes,5 hours,Yes,2-4 hours a day,Severe,Yes,No,No,No,No,No,No,No,Yes,1
+21-25,Male,HSC,Student,Unmarried,Town,Without Family,Yes,No,Yes,No,Sometimes,No,No,No,No,Yes,Below 5 hours,No,Less than 2 hours,Moderate,Yes,Yes,Yes,No,No,No,Yes,No,No,1
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,Yes,No,No,Yes,Yes,More than 8 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,Yes,No,Yes,No,No,Yes,1
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,Less than 2 hours,Moderate,No,No,Yes,Yes,Yes,No,No,No,No,1
+21-25,Female,Graduate,Student,Married,Town,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,Yes,No,0
+21-25,Male,Graduate,Student,Unmarried,City,Without Family,Yes,Yes,Yes,No,Never,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,Yes,No,No,No,Yes,1
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Never,No,No,No,No,No,More than 8 hours,No,More than 10 hours a day,Severe,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,1
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Never,No,No,No,No,No,8 hours,No,More than 10 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1
+61+,Female,Graduate,Other,Married,City,With Family,Yes,Yes,No,No,Sometimes,No,No,Yes,Yes,No,6 hours,Yes,Less than 2 hours,No Pressure,No,No,No,No,No,No,No,No,No,0
+51-55,Female,HSC,Other,Married,City,With Family,Yes,No,Yes,No,Sometimes,No,No,Yes,Yes,No,8 hours,No,Less than 2 hours,Mild,Yes,No,No,No,No,No,No,No,No,1
+16-20,Male,SSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,Yes,No,0
+51-55,Male,Graduate,Service holder (Private),Married,City,With Family,Yes,No,Yes,No,Never,No,No,Yes,Yes,Yes,7 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1
+46-50,Female,SSC,Other,Married,City,With Family,No,No,Yes,No,Never,No,No,Yes,Yes,No,8 hours,No,Less than 2 hours,Severe,Yes,Yes,No,No,No,No,No,No,Yes,1
+51-55,Male,Graduate,Service holder (Private),Married,City,With Family,No,No,Yes,No,Never,No,No,No,No,No,5 hours,Yes,5-7 hours a day,No Pressure,Yes,No,No,No,No,No,No,No,No,1
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,No,Yes,Sometimes,Yes,Yes,No,No,No,6 hours,No,More than 10 hours a day,Moderate,No,Yes,No,No,No,No,No,No,Yes,0
+21-25,Male,Post Graduate,Student,Unmarried,City,Without Family,Yes,Yes,No,No,Never,Yes,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,No,Yes,No,No,No,No,No,No,Yes,0
+21-25,Male,HSC,Student,Married,Town,With Family,No,No,Yes,No,Sometimes,No,No,Yes,No,No,Below 5 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,8-10 hours a day,Moderate,Yes,No,No,Yes,Yes,Yes,Yes,No,No,1
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,Yes,No,No,6 hours,No,2-4 hours a day,Severe,Yes,No,No,No,No,Yes,No,No,Yes,1
+21-25,Female,HSC,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Never,No,No,No,Yes,Yes,Below 5 hours,Yes,Less than 2 hours,Severe,Yes,Yes,No,No,No,No,No,No,No,1
+36-40,Male,Post Graduate,Businessman,Married,Town,With Family,Yes,No,No,No,Regularly,No,No,Yes,Yes,No,7 hours,Yes,Less than 2 hours,No Pressure,Yes,Yes,Yes,No,No,No,No,No,No,1
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,No,No,No,Sometimes,No,No,No,Yes,No,Below 5 hours,Yes,2-4 hours a day,Mild,Yes,No,No,No,No,No,Yes,No,No,1
+21-25,Female,HSC,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,More than 8 hours,No,5-7 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,No,Sometimes,Yes,No,No,No,Yes,Below 5 hours,Yes,5-7 hours a day,No Pressure,Yes,No,No,Yes,No,No,No,No,No,1
+26-30,Male,Graduate,Unemployed,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,Yes,No,Yes,Yes,No,6 hours,Yes,2-4 hours a day,Moderate,Yes,No,No,Yes,No,No,No,Yes,No,1
+21-25,Male,Post Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,Yes,No,No,No,Yes,8 hours,No,Less than 2 hours,Mild,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,1
+21-25,Male,Post Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,Yes,No,No,No,Yes,8 hours,No,Less than 2 hours,Mild,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,1
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,No,Never,No,No,Yes,No,No,More than 8 hours,No,Less than 2 hours,Severe,Yes,No,No,No,No,No,No,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,Yes,No,No,No,No,Below 5 hours,Yes,2-4 hours a day,Severe,Yes,No,No,Yes,No,No,No,No,No,1
+21-25,Female,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,Yes,Yes,Yes,7 hours,No,2-4 hours a day,Mild,Yes,Yes,Yes,No,Yes,No,Yes,No,No,1
+21-25,Male,HSC,Student,Unmarried,Village,With Family,No,Yes,Yes,Yes,Sometimes,No,No,No,No,Yes,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,1
+16-20,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Never,No,No,No,No,Yes,8 hours,No,Less than 2 hours,Severe,No,No,No,No,Yes,No,Yes,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,No,No,Yes,No,Sometimes,Yes,No,No,Yes,No,7 hours,Yes,8-10 hours a day,Severe,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,1
+21-25,Male,SSC,Service holder (Private),Unmarried,City,Without Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,5 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,No,No,Yes,No,No,Yes,1
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Regularly,No,No,No,No,No,More than 8 hours,No,2-4 hours a day,No Pressure,No,Yes,No,Yes,No,No,No,No,Yes,0
+21-25,Male,Post Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,Yes,No,No,No,Yes,8 hours,No,Less than 2 hours,Mild,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,1
+21-25,Male,Post Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,Yes,No,No,No,Yes,8 hours,No,Less than 2 hours,Mild,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,1
+16-20,Female,Graduate,Student,Unmarried,Village,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,8-10 hours a day,Severe,Yes,No,Yes,No,No,Yes,No,No,No,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,Yes,Yes,Sometimes,No,Yes,No,No,No,8 hours,No,5-7 hours a day,Moderate,No,Yes,No,No,No,No,No,No,No,0
+21-25,Male,Post Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,Yes,8 hours,Yes,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,Yes,0
+21-25,Male,HSC,Student,Unmarried,Town,Without Family,Yes,No,Yes,No,Sometimes,Yes,No,No,No,No,7 hours,Yes,2-4 hours a day,Moderate,No,No,No,No,No,No,No,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,No,No,Yes,Yes,No,7 hours,No,Less than 2 hours,No Pressure,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,No,Yes,No,Yes,Yes,No,No,No,No,1
+21-25,Female,HSC,Student,Unmarried,Town,With Family,No,No,Yes,Yes,Regularly,No,No,No,No,Yes,More than 8 hours,Yes,More than 10 hours a day,Moderate,Yes,No,Yes,Yes,No,Yes,Yes,No,No,1
+21-25,Male,Post Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,Town,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,No,Yes,Yes,No,No,No,No,No,No,1
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,8-10 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+16-20,Male,HSC,Student,Unmarried,City,With Family,No,Yes,No,No,Never,No,No,No,No,No,6 hours,No,5-7 hours a day,Severe,No,No,No,No,Yes,No,No,No,Yes,1
+21-25,Female,HSC,Student,Unmarried,Village,Without Family,Yes,Yes,No,No,Never,No,No,Yes,No,No,6 hours,No,More than 10 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0
+16-20,Female,HSC,Student,Unmarried,Town,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,Yes,No,7 hours,No,8-10 hours a day,Mild,Yes,No,No,No,No,Yes,Yes,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,No,Yes,Never,No,No,No,No,No,6 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,Town,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,No,No,Yes,No,No,No,No,No,Yes,1
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,Yes,6 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,No,Yes,No,No,Yes,No,1
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,Yes,7 hours,No,5-7 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Married,Village,With Family,Yes,Yes,Yes,Yes,Never,Yes,Yes,Yes,No,Yes,5 hours,Yes,5-7 hours a day,Mild,No,No,No,No,No,No,No,No,No,0
+21-25,Female,Post Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,5-7 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Post Graduate,Student,Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,No,No,Yes,Yes,No,6 hours,Yes,5-7 hours a day,Moderate,Yes,Yes,No,Yes,No,Yes,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,City,Without Family,Yes,No,No,No,Never,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,No,No,Yes,Yes,No,No,Yes,No,No,1
+21-25,Female,HSC,Student,Unmarried,City,With Family,No,No,No,No,Never,No,No,No,No,No,8 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,5-7 hours a day,Moderate,No,Yes,No,No,No,No,No,No,No,1
+21-25,Male,Post Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Never,No,No,No,No,No,6 hours,No,5-7 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,Yes,No,No,No,No,6 hours,No,5-7 hours a day,Severe,Yes,Yes,Yes,No,No,No,Yes,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,No,Yes,Yes,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,7 hours,No,Less than 2 hours,Moderate,No,Yes,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Regularly,Yes,No,No,Yes,No,7 hours,No,5-7 hours a day,Severe,Yes,No,No,Yes,No,No,Yes,Yes,Yes,1
+21-25,Male,Graduate,Student,Married,City,Without Family,Yes,Yes,No,No,Sometimes,No,No,No,No,Yes,Below 5 hours,Yes,More than 10 hours a day,Severe,No,No,No,No,Yes,No,No,No,Yes,0
+21-25,Female,Graduate,Student,Unmarried,Town,With Family,No,Yes,Yes,No,Never,No,No,No,No,No,6 hours,Yes,5-7 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,No,No,Yes,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Never,Yes,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,Yes,No,Yes,No,No,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,Yes,Yes,Never,No,No,Yes,No,No,6 hours,Yes,2-4 hours a day,Mild,Yes,No,No,No,No,No,No,No,No,1
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,Yes,Yes,6 hours,Yes,2-4 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,1
+21-25,Male,HSC,Student,Unmarried,City,Without Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,Less than 2 hours,Moderate,No,No,Yes,No,Yes,No,No,Yes,Yes,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,No Pressure,No,Yes,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,Yes,Sometimes,Yes,No,No,No,No,6 hours,Yes,5-7 hours a day,Severe,Yes,Yes,No,Yes,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Village,Without Family,No,No,No,No,Sometimes,No,No,No,No,Yes,6 hours,No,5-7 hours a day,Mild,Yes,Yes,Yes,No,Yes,No,No,No,Yes,1
+21-25,Female,HSC,Student,Married,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,Yes,No,7 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,No,No,Yes,Yes,Sometimes,No,No,Yes,Yes,Yes,8 hours,Yes,2-4 hours a day,Severe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+21-25,Female,HSC,Other,Married,Town,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,Yes,Yes,Below 5 hours,No,Less than 2 hours,Severe,Yes,Yes,No,No,No,No,No,Yes,No,1
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,5-7 hours a day,Severe,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Post Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0
+21-25,Female,HSC,Student,Unmarried,Village,Without Family,No,Yes,Yes,No,Never,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,No,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,1
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,More than 8 hours,No,8-10 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Severe,No,No,No,No,No,No,No,No,Yes,0
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,5-7 hours a day,Moderate,No,Yes,No,No,Yes,No,Yes,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,No,Yes,No,No,No,No,No,No,Yes,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,Yes,Sometimes,No,No,Yes,Yes,No,6 hours,No,2-4 hours a day,Moderate,Yes,No,Yes,No,No,No,Yes,No,Yes,1
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Never,No,No,No,No,No,7 hours,No,Less than 2 hours,Moderate,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,1
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Severe,Yes,Yes,No,No,No,No,No,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,Town,Without Family,No,Yes,No,No,Sometimes,No,No,No,No,No,6 hours,No,Less than 2 hours,Severe,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,1
+21-25,Male,Graduate,Student,Unmarried,City,Without Family,Yes,No,Yes,No,Regularly,No,No,No,No,No,7 hours,No,2-4 hours a day,Severe,No,Yes,No,No,Yes,No,No,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,More than 8 hours,No,8-10 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,1
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,6 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,No,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,Less than 2 hours,Moderate,No,No,No,No,No,No,No,No,No,0
+16-20,Female,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,Yes,Yes,No,6 hours,Yes,8-10 hours a day,Severe,No,No,No,No,Yes,No,No,No,No,1
+21-25,Male,HSC,Student,Unmarried,Village,With Family,No,No,Yes,Yes,Sometimes,No,No,Yes,Yes,No,Below 5 hours,Yes,2-4 hours a day,Mild,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,Yes,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,No,Yes,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,5-7 hours a day,Severe,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,1
+21-25,Male,Post Graduate,Student,Unmarried,City,Without Family,Yes,No,Yes,No,Never,No,No,No,No,No,6 hours,No,Less than 2 hours,Severe,No,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Mild,Yes,No,No,No,Yes,No,No,No,Yes,1
+26-30,Male,Graduate,Service holder (Government),Married,Town,Without Family,Yes,Yes,No,No,Regularly,No,No,No,Yes,No,5 hours,No,Less than 2 hours,Severe,No,Yes,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,More than 8 hours,No,5-7 hours a day,No Pressure,Yes,No,No,Yes,No,Yes,Yes,Yes,No,1
+21-25,Female,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,6 hours,Yes,5-7 hours a day,Moderate,No,Yes,No,No,No,No,Yes,No,No,1
+21-25,Female,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,No,No,Yes,No,Yes,More than 8 hours,No,More than 10 hours a day,Moderate,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,1
+21-25,Male,Post Graduate,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,6 hours,No,Less than 2 hours,Severe,Yes,No,Yes,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,No Pressure,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Never,No,No,Yes,No,No,5 hours,Yes,Less than 2 hours,Moderate,Yes,No,Yes,No,No,No,Yes,Yes,No,1
+21-25,Female,Graduate,Student,Unmarried,Village,With Family,No,No,No,No,Sometimes,No,No,No,Yes,No,Below 5 hours,No,5-7 hours a day,Moderate,Yes,No,No,No,No,Yes,No,Yes,Yes,1
+21-25,Female,Graduate,Unemployed,Married,Town,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,Yes,More than 8 hours,No,5-7 hours a day,No Pressure,Yes,Yes,No,No,No,No,Yes,No,No,1
+21-25,Female,Graduate,Student,Unmarried,Town,Without Family,Yes,No,No,No,Sometimes,No,No,No,Yes,No,7 hours,No,5-7 hours a day,Moderate,Yes,No,No,No,No,No,Yes,No,No,1
+21-25,Female,Graduate,Student,Unmarried,Town,Without Family,No,No,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Mild,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,1
+21-25,Female,Graduate,Unemployed,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,Yes,Below 5 hours,Yes,8-10 hours a day,No Pressure,Yes,Yes,Yes,Yes,No,No,No,No,No,1
+26-30,Female,Graduate,Unemployed,Unmarried,City,With Family,Yes,Yes,No,No,Never,No,No,No,Yes,No,More than 8 hours,No,5-7 hours a day,Mild,Yes,Yes,No,No,No,No,No,Yes,No,0
+21-25,Female,Graduate,Unemployed,Unmarried,Town,With Family,Yes,No,No,No,Sometimes,No,No,No,No,Yes,8 hours,No,More than 10 hours a day,No Pressure,Yes,No,No,No,No,Yes,Yes,Yes,No,1
+21-25,Female,Graduate,Student,Married,City,With Family,Yes,No,Yes,No,Sometimes,No,No,No,Yes,No,6 hours,No,Less than 2 hours,No Pressure,Yes,No,No,No,No,No,No,No,No,1
+26-30,Female,Graduate,Unemployed,Married,Village,With Family,Yes,Yes,No,No,Never,No,No,No,Yes,Yes,8 hours,No,5-7 hours a day,Mild,Yes,No,No,No,No,No,Yes,No,No,0
+26-30,Female,Graduate,Unemployed,Married,City,With Family,Yes,Yes,Yes,No,Never,No,No,No,Yes,No,Below 5 hours,No,Less than 2 hours,No Pressure,Yes,No,Yes,No,No,No,Yes,Yes,No,1
+26-30,Female,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,5 hours,No,8-10 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,0
+21-25,Female,Graduate,Student,Unmarried,City,Without Family,No,No,Yes,No,Sometimes,No,No,No,No,No,Below 5 hours,Yes,Less than 2 hours,Mild,Yes,Yes,No,No,Yes,No,Yes,No,No,1
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,Less than 2 hours,Mild,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,No,Yes,Yes,Yes,Sometimes,No,No,No,No,No,8 hours,No,5-7 hours a day,Mild,No,Yes,No,No,No,No,No,No,No,1
+26-30,Female,Graduate,Other,Married,City,Without Family,No,No,Yes,No,Never,No,No,No,No,No,5 hours,Yes,Less than 2 hours,Moderate,Yes,Yes,No,No,No,No,No,Yes,No,1
+21-25,Male,SSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,Yes,No,No,6 hours,No,2-4 hours a day,Mild,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,1
+21-25,Male,Graduate,Student,Unmarried,Town,Without Family,Yes,Yes,No,No,Regularly,No,No,No,No,No,8 hours,No,Less than 2 hours,Severe,No,No,No,No,No,No,No,No,No,0
+26-30,Female,Post Graduate,Unemployed,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,Yes,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,1
+26-30,Female,HSC,Unemployed,Married,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,Yes,6 hours,No,2-4 hours a day,No Pressure,Yes,No,No,No,No,No,No,No,No,0
+26-30,Female,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,No,No,Never,No,No,No,Yes,No,7 hours,No,5-7 hours a day,Severe,No,Yes,No,No,No,No,No,Yes,No,0
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,Yes,8 hours,No,Less than 2 hours,Mild,Yes,No,No,No,No,No,No,Yes,No,0
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,Yes,No,Yes,No,No,Below 5 hours,Yes,2-4 hours a day,Moderate,Yes,No,Yes,No,No,No,No,No,Yes,1
+21-25,Female,HSC,Student,Married,City,With Family,Yes,No,Yes,Yes,Never,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,Yes,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,Less than 2 hours,Moderate,No,Yes,No,Yes,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+16-20,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,Yes,No,Never,No,No,No,No,Yes,7 hours,No,5-7 hours a day,Moderate,Yes,No,Yes,No,No,No,No,No,No,1
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,No,Yes,Never,No,No,No,No,No,7 hours,Yes,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,No,No,Never,No,No,No,No,No,7 hours,Yes,5-7 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Never,Yes,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,No,No,No,No,No,Yes,1
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,Yes,Yes,Never,No,Yes,No,No,Yes,5 hours,Yes,8-10 hours a day,Severe,Yes,Yes,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,5-7 hours a day,Mild,No,Yes,No,No,Yes,No,No,No,Yes,0
+21-25,Male,Post Graduate,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,Yes,Yes,Yes,7 hours,No,5-7 hours a day,Moderate,No,No,Yes,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,No,Yes,No,No,Sometimes,No,No,No,No,No,6 hours,No,5-7 hours a day,Mild,No,Yes,Yes,No,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,Yes,Yes,No,No,No,More than 8 hours,No,Less than 2 hours,Severe,Yes,Yes,No,Yes,No,No,No,No,Yes,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,Yes,Less than 2 hours,Moderate,No,Yes,No,No,Yes,No,Yes,Yes,Yes,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,Below 5 hours,No,5-7 hours a day,Moderate,No,No,No,No,No,No,No,No,Yes,0
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,No,No,Never,No,No,No,No,No,6 hours,No,8-10 hours a day,Severe,Yes,No,Yes,No,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,No,No,Never,No,No,Yes,No,Yes,7 hours,No,Less than 2 hours,Moderate,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,Yes,No,Yes,Yes,No,Below 5 hours,Yes,5-7 hours a day,Severe,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,1
+21-25,Female,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,5-7 hours a day,Mild,Yes,Yes,Yes,No,No,No,No,No,No,1
+21-25,Male,HSC,Student,Unmarried,Town,With Family,No,No,Yes,No,Sometimes,Yes,No,No,No,No,8 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,Yes,Yes,No,No,No,Yes,1
+21-25,Male,HSC,Student,Married,Town,With Family,Yes,No,No,No,Never,No,Yes,No,No,No,6 hours,No,5-7 hours a day,No Pressure,No,Yes,No,No,No,No,No,No,Yes,1
+21-25,Male,Graduate,Student,Unmarried,City,Without Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,8-10 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,No,Yes,Yes,Yes,Sometimes,No,No,No,No,Yes,Below 5 hours,Yes,2-4 hours a day,Severe,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,1
+21-25,Male,Post Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,Yes,No,7 hours,No,Less than 2 hours,Severe,No,No,No,No,No,No,No,No,No,0
+21-25,Female,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Never,No,No,No,No,No,7 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,Yes,0
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Never,No,No,No,No,No,Below 5 hours,No,Less than 2 hours,Moderate,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Town,Without Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,6 hours,Yes,Less than 2 hours,Moderate,Yes,Yes,No,Yes,No,No,No,No,No,1
+21-25,Male,Post Graduate,Student,Unmarried,Village,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,8-10 hours a day,Moderate,No,Yes,Yes,No,No,No,No,Yes,No,1
+16-20,Female,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,5 hours,No,5-7 hours a day,Moderate,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,1
+21-25,Male,HSC,Student,Married,City,With Family,Yes,Yes,Yes,No,Regularly,No,No,Yes,Yes,Yes,7 hours,Yes,5-7 hours a day,Moderate,Yes,No,No,Yes,Yes,No,Yes,No,No,1
+21-25,Male,HSC,Student,Unmarried,Town,With Family,No,Yes,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,8-10 hours a day,Severe,Yes,Yes,No,No,Yes,No,Yes,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,Yes,Yes,No,No,No,6 hours,No,5-7 hours a day,Moderate,No,No,No,Yes,No,No,No,No,Yes,0
+21-25,Female,HSC,Student,Married,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,7 hours,Yes,Less than 2 hours,Mild,No,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,Yes,No,No,No,No,8 hours,No,5-7 hours a day,No Pressure,Yes,Yes,Yes,Yes,No,No,No,No,Yes,1
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,6 hours,No,8-10 hours a day,No Pressure,Yes,Yes,No,No,Yes,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,Yes,No,Sometimes,Yes,No,Yes,No,No,Below 5 hours,Yes,2-4 hours a day,No Pressure,No,Yes,No,No,No,No,No,No,Yes,1
+21-25,Male,Post Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,Yes,Never,No,No,No,No,No,Below 5 hours,No,8-10 hours a day,Moderate,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,1
+21-25,Male,Graduate,Student,Unmarried,Village,Without Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,Less than 2 hours,No Pressure,No,No,No,No,No,No,No,No,Yes,0
+21-25,Female,HSC,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,Yes,No,7 hours,No,5-7 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,8 hours,Yes,5-7 hours a day,Mild,Yes,Yes,Yes,Yes,No,No,No,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,Yes,Sometimes,No,No,No,No,No,6 hours,No,Less than 2 hours,No Pressure,No,No,No,No,No,No,No,No,No,0
+21-25,Female,HSC,Student,Unmarried,City,With Family,No,No,No,No,Sometimes,No,No,No,No,No,Below 5 hours,No,More than 10 hours a day,No Pressure,Yes,Yes,Yes,Yes,Yes,No,No,No,No,1
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Regularly,No,No,No,No,No,7 hours,No,Less than 2 hours,Mild,No,No,No,No,No,No,No,No,Yes,0
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Sometimes,Yes,No,No,No,No,7 hours,No,Less than 2 hours,Mild,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,Town,Without Family,Yes,No,Yes,No,Sometimes,Yes,No,No,No,No,7 hours,No,8-10 hours a day,Moderate,No,No,No,No,No,No,No,Yes,Yes,1
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,Yes,No,Never,Yes,No,No,No,No,7 hours,No,8-10 hours a day,Moderate,No,No,No,Yes,No,No,No,No,Yes,0
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,Yes,No,Never,Yes,No,No,No,No,7 hours,No,8-10 hours a day,Moderate,No,No,No,Yes,No,No,No,No,Yes,0
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Never,No,No,No,Yes,No,5 hours,Yes,2-4 hours a day,Severe,Yes,Yes,Yes,No,No,No,Yes,No,No,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,No,Never,No,No,No,No,No,6 hours,Yes,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,City,Without Family,Yes,Yes,No,No,Regularly,No,No,No,No,No,8 hours,No,5-7 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,No,No,No,Never,Yes,No,No,Yes,Yes,7 hours,No,Less than 2 hours,Moderate,No,Yes,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,Town,Without Family,No,No,Yes,No,Never,No,No,No,No,No,6 hours,No,2-4 hours a day,Severe,No,No,No,No,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,5 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,City,With Family,No,No,Yes,No,Never,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,Yes,No,No,Yes,Yes,No,1
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,5-7 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0
+21-25,Male,HSC,Student,Unmarried,Village,With Family,No,No,Yes,Yes,Sometimes,No,No,Yes,No,Yes,5 hours,Yes,Less than 2 hours,Moderate,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,1
+21-25,Female,HSC,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,Yes,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,No,0
+21-25,Female,HSC,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,Yes,Below 5 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Never,No,No,No,No,No,6 hours,No,Less than 2 hours,Moderate,No,No,No,Yes,Yes,Yes,Yes,No,Yes,1
+21-25,Male,Post Graduate,Student,Unmarried,City,With Family,No,No,Yes,No,Sometimes,Yes,No,No,No,No,5 hours,No,5-7 hours a day,Mild,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,1
+21-25,Female,Graduate,Student,Unmarried,City,With Family,No,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,No,No,No,No,Yes,Yes,1
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,5-7 hours a day,Severe,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,1
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,8-10 hours a day,No Pressure,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1
+21-25,Female,HSC,Student,Unmarried,City,With Family,No,Yes,Yes,Yes,Sometimes,No,No,Yes,Yes,No,Below 5 hours,Yes,8-10 hours a day,Moderate,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,1
+21-25,Male,Post Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,Yes,8 hours,No,5-7 hours a day,Moderate,No,No,No,Yes,No,No,No,No,Yes,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,No,No,No,No,Sometimes,No,No,No,Yes,No,8 hours,No,5-7 hours a day,Severe,No,No,No,No,No,No,No,No,Yes,1
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,8-10 hours a day,No Pressure,No,Yes,No,No,No,No,No,No,No,0
+16-20,Female,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,Yes,No,Yes,No,5 hours,Yes,5-7 hours a day,Mild,Yes,Yes,No,No,No,No,Yes,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,City,Without Family,Yes,No,No,No,Never,No,No,No,No,No,6 hours,No,More than 10 hours a day,Mild,Yes,No,No,No,No,No,No,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,Yes,No,Regularly,No,No,No,No,No,More than 8 hours,No,More than 10 hours a day,Moderate,Yes,No,Yes,Yes,No,No,Yes,Yes,No,1
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,No,Yes,Yes,No,Sometimes,No,No,No,Yes,No,6 hours,No,5-7 hours a day,Moderate,Yes,No,Yes,Yes,Yes,No,No,No,Yes,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,Yes,8 hours,No,Less than 2 hours,Mild,Yes,Yes,Yes,No,No,No,No,No,No,1
+21-25,Male,Post Graduate,Service holder (Private),Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,Yes,1
+21-25,Male,HSC,Student,Unmarried,Town,With Family,No,No,No,No,Sometimes,Yes,No,No,No,No,7 hours,No,More than 10 hours a day,Mild,Yes,No,Yes,No,No,No,No,No,No,1
+41-45,Male,Graduate,Service holder (Private),Married,City,With Family,Yes,No,Yes,No,Sometimes,No,No,Yes,Yes,No,8 hours,No,2-4 hours a day,Severe,Yes,Yes,Yes,No,No,No,Yes,No,No,1
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,No,Yes,Sometimes,No,No,No,No,Yes,More than 8 hours,Yes,More than 10 hours a day,No Pressure,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,1
+26-30,Male,Graduate,Service holder (Private),Married,City,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,5 hours,No,2-4 hours a day,Severe,Yes,No,No,No,Yes,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,Yes,8 hours,No,2-4 hours a day,Severe,Yes,Yes,Yes,No,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,No,No,Yes,No,Sometimes,No,No,Yes,No,Yes,7 hours,No,More than 10 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,1
+16-20,Female,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Never,No,No,No,No,No,8 hours,No,2-4 hours a day,Mild,Yes,Yes,Yes,No,No,No,No,No,No,1
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,Yes,Yes,No,7 hours,No,8-10 hours a day,Mild,No,No,No,No,Yes,No,No,No,No,0
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,Yes,Yes,No,7 hours,No,8-10 hours a day,Mild,No,No,No,No,Yes,No,No,No,No,0
+26-30,Female,Post Graduate,Service holder (Private),Unmarried,City,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1
+26-30,Male,Graduate,Businessman,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Sometimes,Yes,No,Yes,Yes,No,8 hours,No,2-4 hours a day,Mild,No,Yes,No,No,No,No,No,No,Yes,1
+26-30,Male,Post Graduate,Service holder (Private),Married,Town,With Family,Yes,Yes,Yes,No,Sometimes,Yes,No,No,No,No,6 hours,No,Less than 2 hours,Severe,Yes,Yes,No,No,No,No,Yes,No,Yes,1
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,No,Yes,Yes,No,Sometimes,No,No,No,No,No,8 hours,Yes,8-10 hours a day,No Pressure,No,Yes,No,No,No,No,No,No,Yes,1
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Severe,Yes,Yes,Yes,No,No,No,Yes,No,No,1
+21-25,Male,Graduate,Student,Married,Village,With Family,No,No,Yes,No,Never,Yes,No,No,No,No,5 hours,No,5-7 hours a day,Mild,Yes,No,No,No,No,No,No,No,No,1
+21-25,Male,Graduate,Other,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,Yes,No,No,0
+26-30,Male,Post Graduate,Student,Unmarried,City,Without Family,Yes,Yes,Yes,No,Regularly,No,No,No,No,No,6 hours,No,Less than 2 hours,Moderate,No,No,No,No,No,No,No,No,Yes,0
